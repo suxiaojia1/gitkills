@@ -1,2 +1,2 @@
 # gitkills
-add commit.
+add merge.
